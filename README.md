@@ -51,9 +51,17 @@ When the alcohol level is below the threshold, the relay allows the motor to ope
 * DC Motor
 * Buzzer
 
-## 📷 Project Images
+## 📂 Project Files
 
-Project images and circuit diagrams will be added here.
+* 📄 [Project Report](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Project_report.pdf)
+* 📊 [Project Presentation](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Project_ppt.pptx)
+* 💻 [Arduino Source Code](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Project_source-code.ino)
+* 🧩 [Block Diagram](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Block%20diagram.png)
+* 🔌 [Circuit Diagram](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Circuit%20diagram.png)
+* 📷 [Project Image](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Project%20image.png)
+* 📷 [Case 1 – Result](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Case-1%20image.png)
+* 📷 [Case 2 – Result](https://github.com/Kishore19092003/Alcohol-Detector-System-with-Motor-Locking/blob/main/Case-2%20image.png)
+
 
 ## 🚀 Future Improvements
 
